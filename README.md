@@ -11,10 +11,6 @@ Welcome to my React project! This project is a simple React application that sho
 - [License](#license)
 - [Contact](#contact)
 
-## Installation
+## MY WEBSITE
 
-To get started with the project, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/oakabc/ReactStartingFile.git
+![alt text]([http://url/to/img.png)](https://github.com/siriMallika/miniProject/blob/main/screencapture-localhost-3000-2024-05-26-20_07_07.png)
