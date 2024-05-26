@@ -1,4 +1,4 @@
-# Chanakarn Kingkaew's Project
+# Mallika Sirivorajanyadee's Project
 
 Welcome to my React project! This project is a simple React application that showcases various features and functionalities of React.
 
